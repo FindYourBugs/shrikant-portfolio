@@ -137,6 +137,14 @@ const certificateImages = [
   {
     title: 'Red Team Operations',
     file: 'certificates/redteam.png'
+  },
+  {
+    title: 'Practical-Ethical-Hacking',
+    file: 'certificates/peh.png'
+  },
+  {
+    title: 'Practical Malware Analysis Triage',
+    file: 'certificates/pmat.png'
   }
 ];
 

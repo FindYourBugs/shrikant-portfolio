@@ -139,7 +139,7 @@ const certificateImages = [
     file: 'certificates/redteam.png'
   },
   {
-    title: 'Practical-Ethical-Hacking',
+    title: 'Practical Ethical Hacking',
     file: 'certificates/peh.png'
   },
   {
@@ -161,20 +161,20 @@ const satisfactionImages = [
     file: 'customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png'
   },
   {
-    title: 'Certificate of Appreciation',
-    file: 'customer-satisfaction/Certificate_Shrikant Shinde.png'
-  },
-  {
-    title: 'Appreciation Letter',
-    file: 'customer-satisfaction/letter.png'
-  },
-  {
     title: 'VAPT Client Satisfaction',
     file: 'customer-satisfaction/g.png'
   },
   {
     title: 'VAPT Client Satisfaction',
     file: 'customer-satisfaction/r.png'
+  },
+  {
+    title: 'Certificate of Appreciation',
+    file: 'customer-satisfaction/Certificate_Shrikant Shinde.png'
+  },
+  {
+    title: 'Appreciation Letter',
+    file: 'customer-satisfaction/letter.png'
   }
 ];
 

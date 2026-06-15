@@ -211,35 +211,35 @@ const badgeLinks = [
     description: 'Verified Google Chronicle badge'
   },
   {
-    title: 'HTB Academy Badge 01',
+    title: 'Academician',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/academician.png',
     url: 'https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4',
     description: 'Verified Hack The Box Academy badge'
   },
   {
-    title: 'HTB Academy Badge 02',
+    title: 'Your request is my demand',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png',
     url: 'https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4',
     description: 'Verified Hack The Box Academy badge'
   },
   {
-    title: 'HTB Academy Badge 03',
+    title: 'Fuzzing is power',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png',
     url: 'https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4',
     description: 'Verified Hack The Box Academy badge'
   },
   {
-    title: 'HTB Academy Badge 04',
+    title: 'Developer',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/developer.png',
     url: 'https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4',
     description: 'Verified Hack The Box Academy badge'
   },
   {
-    title: 'HTB Academy Badge 05',
+    title: 'Panoptic',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png',
     url: 'https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4',

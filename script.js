@@ -187,6 +187,13 @@ const fallbackBadgeSvg = `data:image/svg+xml;utf8,${encodeURIComponent(`
 
 /* Badges */
 const badgeLinks = [
+   {
+    title: 'Chronicle Technical Training',
+    platform: 'Google',
+    image: 'https://cdn.qwiklabs.com/psMLoIO%2Bj4eAf0CdoV9OGmK8LgVYs0U%2FsNYoanjsZDI%3D',
+    url: 'https://www.skills.google/public_profiles/2eb60882-db14-4264-988c-400ed5dde35e/badges/2892117',
+    description: 'Verified Google Chronicle badge'
+  },
   {
     title: 'HTB Academy Badge 01',
     platform: 'Hack The Box',

@@ -211,6 +211,20 @@ const badgeLinks = [
     description: 'Verified Google Chronicle badge'
   },
   {
+    title: 'Ambassador',
+    platform: 'Hack The Box',
+    image: 'https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/c45df8beebb6291da1c4cd8de04dd7a5.png',
+    url: 'https://labs.hackthebox.com/achievement/machine/367730/499',
+    description: 'Verified Hack The Box Academy badge'
+  },
+  {
+    title: 'OpenKeyS',
+    platform: 'Hack The Box',
+    image: 'https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/792cdcf6434dad849ef37c4ab16bd68b.png',
+    url: 'https://labs.hackthebox.com/achievement/machine/367730/267',
+    description: 'Verified Hack The Box Academy badge'
+  },
+  {
     title: 'Reactor',
     platform: 'Hack The Box',
     image: 'https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png',

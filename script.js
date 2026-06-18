@@ -211,6 +211,13 @@ const badgeLinks = [
     description: 'Verified Google Chronicle badge'
   },
   {
+    title: 'Reactor',
+    platform: 'Hack The Box',
+    image: 'https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png',
+    url: 'https://labs.hackthebox.com/achievement/machine/367730/900',
+    description: 'Verified Hack The Box Academy badge'
+  },
+  {
     title: 'Academician',
     platform: 'Hack The Box',
     image: 'https://academy.hackthebox.com/storage/badges/academician.png',
